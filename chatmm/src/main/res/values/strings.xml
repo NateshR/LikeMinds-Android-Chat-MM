@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_internet">No internet!</string>
+    <string name="check_your_connection_and_try_again">Check your connection and try again.</string>
+    <string name="not_now">Not now</string>
+    <string name="permission_continue">Continue</string>
+    <string name="settings">Settings</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="empty_api_key">Empty API Key</string>
+    <string name="community">Community</string>
+    <string name="access_denied">Access denied!</string>
+    <string name="oops_you_don_t_seem_to_have_access_to_the_community">Oops! You don’t seem to have access to the community.</string>
+    <string name="explore">Explore</string>
+    <string name="ninety_nine_plus_chatrooms">99+ Chatrooms</string>
+    <string name="ninety_nine_plus_new">99+ NEW</string>
+    <string name="new_chatroom_count">%d NEW</string>
+    <plurals name="chatrooms_count">
+        <item quantity="one">%d Chatroom</item>
+        <item quantity="other">%d Chatrooms</item>
+    </plurals>
+    <string name="max_two_digit_number">99+</string>
+    <string name="you_deleted_this_message">You deleted this message.</string>
+    <string name="your_message_was_deleted_by_cm">Your message was deleted by a community manager.</string>
+    <string name="this_message_was_deleted">This message was deleted.</string>
+    <string name="this_message_was_deleted_by_cm">This message was deleted by a community manager.</string>
+    <string name="chatroom_was_deleted">This chat room was deleted</string>
+    <string name="empty_chat_room_title">It’s time to participate</string>
+    <string name="joined_chatrooms">Joined chat rooms</string>
+    <string name="general_channel_name">General notifications</string>
+    <string name="general_channel_description">All general notifications</string>
+    <string name="new_caps">NEW</string>
+    <string name="join">Join</string>
+    <string name="joined">Joined</string>
+    <string name="creator_cant_leave_message">The creator of a chatroom cannot leave the chatroom</string>
+    <string name="pinned">Pinned</string>
+    <string name="explore_chatroom">Explore Chatrooms</string>
+    <string name="community_manager">Community Manager</string>
+    <string name="edited">Edited</string>
+    <plurals name="community_manager">
+        <item quantity="one">Community Manager</item>
+        <item quantity="other">Community Managers</item>
+    </plurals>
+    <string name="about_this_community">About this community:</string>
+    <string name="reaction_red_heart">❤️</string>
+    <string name="reaction_crying_laugh">😂</string>
+    <string name="reaction_wow">😮</string>
+    <string name="reaction_cry">😢</string>
+    <string name="reaction_anger">😡</string>
+    <string name="reaction_like">👍</string>
+    <string name="long_press_to_react">Press and hold to react.</string>
+    <string name="tap_and_hold_to_record">Tap and Hold to record a voice message.</string>
+    <string name="reply">Reply</string>
+    <string name="voice_note">Voice Note</string>
+    <string name="type_your_response">Type your response</string>
+    <string name="the_community_managers_have_restricted_you_from_responding_here">The community managers have restricted you from responding here.</string>
+    <string name="gifs">GIFs</string>
+    <string name="slide_up_to_record_without_holding">Slide up to record without holding</string>
+    <string name="slide_to_cancel">Slide to cancel</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="document">Document</string>
+    <string name="poll">Poll</string>
+    <string name="audio">Audio</string>
+    <string name="search_hint_text">Search…</string>
+    <string name="chatroom_not_joined_yet">chatroom not joined yet</string>
+    <string name="no_results_found">No results found</string>
+</resources>
